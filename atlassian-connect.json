@@ -6,10 +6,10 @@
         "name": "Archimatika LLC",
         "url": "https://archimatika.com"
     },
-    "baseUrl": "https://d625e5cf.ngrok.io/",
+    "baseUrl": "https://syncprojectsdb.herokuapp.com",
     "links": {
-        "self": "https://d625e5cf.ngrok.io/atlassian-connect.json",
-        "homepage": "https://d625e5cf.ngrok.io/atlassian-connect.json"
+        "self": "https://syncprojectsdb.herokuapp.com/atlassian-connect.json",
+        "homepage": "https://syncprojectsdb.herokuapp.com/atlassian-connect.json"
     },
     "authentication": {
         "type": "jwt"
