@@ -1,0 +1,53 @@
+{
+    "key": "SyncProjectsDB",
+    "name": "SyncProjectsDB",
+    "description": "Sync projects indexes from DB",
+    "vendor": {
+        "name": "Archimatika LLC",
+        "url": "https://archimatika.com"
+    },
+    "baseUrl": "https://6122acff.ngrok.io",
+    "links": {
+        "self": "https://6122acff.ngrok.io/atlassian-connect.json",
+        "homepage": "https://6122acff.ngrok.io/atlassian-connect.json"
+    },
+    "authentication": {
+        "type": "jwt"
+    },
+    "lifecycle": {
+        "installed": "/installed"
+    },
+    "scopes": [
+        "READ", "WRITE", "ADMIN"
+    ],
+    "modules": {
+        "generalPages": [
+            {
+                "key": "SyncProjectsDB",
+                "location": "system.top.navigation.bar",
+                "name": {
+                    "value": "SyncProjectsDB"
+                },
+                "url": "/SyncProjectsDB",
+                "conditions": [{
+                    "condition": "user_is_logged_in"
+                }]
+            }
+        ],
+        "jiraIssueFields": [
+            {
+                "key" : "PPindexes",
+                "name" : {
+                    "value" : "PPindexes"
+                },
+                "description" : {
+                    "value" : "Project Portfolio indexes"
+                },
+                "type": "single_select"
+            }
+        ]
+    },
+    "apiMigrations": {
+        "gdpr": true
+    }
+}

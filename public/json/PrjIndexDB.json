@@ -1,0 +1,1852 @@
+{
+"RECORDS":[
+{
+"id":89,
+"name":".Администрирование ",
+"description":null,
+"status":1,
+"identifier":"_adm"
+},
+{
+"id":77,
+"name":".Развитие",
+"description":null,
+"status":1,
+"identifier":"_rnd"
+},
+{
+"id":158,
+"name":".Соцобеспечение ",
+"description":"Учет непроизводственного времени\r\n1 рабочий день = 8 часам",
+"status":1,
+"identifier":"_soc"
+},
+{
+"id":201,
+"name":"\/Авторский надзор",
+"description":"Выезды на авторский надзор",
+"status":1,
+"identifier":"as"
+},
+{
+"id":200,
+"name":"\/Предпроекты",
+"description":"Подготовительные (предварительные) неоплачиваемые работы по всем проектам\r\n(проекты по которым не было оплаты ни разу)",
+"status":1,
+"identifier":"sd"
+},
+{
+"id":551,
+"name":"\/Сопровождение Проектов",
+"description":"Пост-проектное сопровождение объектов финансируемое из фонда развития.",
+"status":1,
+"identifier":"pps"
+},
+{
+"id":328,
+"name":"1BIM",
+"description":"BIM проекты",
+"status":1,
+"identifier":"1bim"
+},
+{
+"id":848,
+"name":"2019 Общественные ",
+"description":null,
+"status":1,
+"identifier":"2019-sp"
+},
+{
+"id":847,
+"name":"2019 Развитие ",
+"description":"Деятельность вне проектов развития, но финансируемая из ФР",
+"status":1,
+"identifier":"_rnd-2019"
+},
+{
+"id":852,
+"name":"2019 Стратегия",
+"description":null,
+"status":1,
+"identifier":"2019-str"
+},
+{
+"id":543,
+"name":"6D",
+"description":null,
+"status":1,
+"identifier":"6d"
+},
+{
+"id":422,
+"name":"Adobe Sign",
+"description":null,
+"status":1,
+"identifier":"adobe-sign"
+},
+{
+"id":896,
+"name":"ARC-S00",
+"description":"Школа в Казани\r\nВ ЖК ArtCity\r\n\r\nстадия - Предпроект\r\nphase – Pre-Design\r\n",
+"status":1,
+"identifier":"arc-s00"
+},
+{
+"id":513,
+"name":"ATN--[C00]",
+"description":"Стадия - Рабочая Документация\r\nОчередь проектирования - Весь объект\r\nStage - Construction Design\r\nZone - 000, All Site",
+"status":1,
+"identifier":"atn-c00"
+},
+{
+"id":751,
+"name":"AWS--[Z00]",
+"description":"Collaboration with BIM Point: Modeling of existing building from point clouds.",
+"status":1,
+"identifier":"aws-z00"
+},
+{
+"id":170,
+"name":"BIM",
+"description":"Информационное моделирование строительства\r\n",
+"status":1,
+"identifier":"itbim"
+},
+{
+"id":415,
+"name":"BIM Protocol 2.0",
+"description":null,
+"status":1,
+"identifier":"bim-protocol-20"
+},
+{
+"id":882,
+"name":"BIM--Z-Coordination",
+"description":null,
+"status":1,
+"identifier":"bim-z-coordination"
+},
+{
+"id":668,
+"name":"BIM-ArchiCAD-A",
+"description":null,
+"status":1,
+"identifier":"archicad-gdl"
+},
+{
+"id":884,
+"name":"BIM-Revit-A",
+"description":null,
+"status":1,
+"identifier":"bim-revit-a"
+},
+{
+"id":881,
+"name":"BIM-Revit-D",
+"description":null,
+"status":1,
+"identifier":"bim-revit-d"
+},
+{
+"id":883,
+"name":"BIM-Revit-E",
+"description":null,
+"status":1,
+"identifier":"bim-revit-e"
+},
+{
+"id":897,
+"name":"BIM-Revit-H",
+"description":null,
+"status":1,
+"identifier":"bim-revit-h"
+},
+{
+"id":898,
+"name":"BIM-Revit-P",
+"description":null,
+"status":1,
+"identifier":"bim-revit-p"
+},
+{
+"id":724,
+"name":"BIMex",
+"description":"BIM export",
+"status":1,
+"identifier":"bimex"
+},
+{
+"id":531,
+"name":"BZH--[C00]",
+"description":"Стадия – Рабочая Документация\r\nОчередь проектирования - Весь объект\r\nStage – Construction Design\r\nZone - 000, All Site",
+"status":1,
+"identifier":"bzh-c00"
+},
+{
+"id":650,
+"name":"BzH--[D02]",
+"description":"Стадия - Проект (Подготовка)\r\nОчередь проектирования - II\r\nЗдание - Жилой дом 07 (26эт.), Жилой дом 08 (33эт.), Паркинг\r\nPhase – Design Development\r\nZone - 02\r\nBuildings - Residental house 07 (26fl.), Residental house 08 (33fl.), Parking\r\n",
+"status":1,
+"identifier":"bzh-d02"
+},
+{
+"id":787,
+"name":"BZH--[S00a]",
+"description":"Корректировка эскизного проекта.\r\nстадия - Эскизный проект\r\nphase – Schematic-Design",
+"status":1,
+"identifier":"bzh-s00a"
+},
+{
+"id":916,
+"name":"BZH-C00b",
+"description":"Корректировка \"ИТП\" и связанных с ним инженерных сетей.\r\nСтадия - Рабочая документация\r\nStage - Constuction Design",
+"status":1,
+"identifier":"bzh-c00b"
+},
+{
+"id":716,
+"name":"DGT--[D00]",
+"description":"Стадия - Проект\r\nОчередь проектирования - весь объект\r\nStage - Design Development \r\nZone - 000, All site",
+"status":1,
+"identifier":"dgt-d00"
+},
+{
+"id":780,
+"name":"DGT--[V00]",
+"description":"Стадия - Инвестиционные альбомы \r\nОчередь проектирования - Весь объект \r\nStage - Investment Albums\r\nZone - 000, All site",
+"status":1,
+"identifier":"dgt-v00"
+},
+{
+"id":766,
+"name":"DGT-1PR-[V00]",
+"description":"Стадия - Инвестиционные альбомы \r\nОчередь проектирования - Весь объект \r\nStage - Investment Albums\r\nZone - 000, All site\r\nРекламные материалы",
+"status":1,
+"identifier":"dgt-1pr-v00"
+},
+{
+"id":901,
+"name":"DHT-S00",
+"description":"Концепция благоустройства по объекту:«Участок жилого комплекса «Креатор Сити» по улице Дегтяревской 17-19, в городе Киеве»\r\nстадия - Предпроект оплачиваемый\r\nphase – Pre-Design",
+"status":1,
+"identifier":"dht-s00"
+},
+{
+"id":626,
+"name":"DLV--[С02]",
+"description":"Стадия - Рабочая Документация\r\nОчередь проектирования - II\r\nStage - Construction Design \r\nZone - 02\r\n\"Тетрис\"",
+"status":1,
+"identifier":"dlv-02"
+},
+{
+"id":547,
+"name":"English",
+"description":null,
+"status":1,
+"identifier":"eng"
+},
+{
+"id":684,
+"name":"GoL--[C00]",
+"description":"Стадия - Р\r\nОчередь проектирования - Весь объект\r\nStage - Construction Development \r\nZone - 001",
+"status":1,
+"identifier":"gol-c00"
+},
+{
+"id":805,
+"name":"GOL--[D00a]",
+"description":"WLHP на классику\r\nСтадия - Проект (корректировка a)\r\nОчередь проектирования - Весь объект\r\nStage - Design Development (revision a)\r\nZone - 000, All Site",
+"status":1,
+"identifier":"gol-d00a"
+},
+{
+"id":806,
+"name":"GOL--[D00b]",
+"description":"Фитнес Центр\r\nСтадия - Проект (корректировка b)\r\nОчередь проектирования - Весь объект\r\nStage - Design Development (revision b)\r\nZone - 000, All Site\r\n",
+"status":1,
+"identifier":"gol-d00b"
+},
+{
+"id":807,
+"name":"GOL--[D00c]",
+"description":"Перенос котельной\r\nСтадия - Проект (корректировка c)\r\nОчередь проектирования - Весь объект\r\nStage - Design Development (revision c)\r\nZone - 000, All Site",
+"status":1,
+"identifier":"gol-d00c"
+},
+{
+"id":618,
+"name":"Gol--[D00]",
+"description":"Стадия - Проект\r\nОчередь проектирования - Весь объект\r\nStage - Design Development \r\nZone - 000, All Site",
+"status":1,
+"identifier":"gol-d00"
+},
+{
+"id":858,
+"name":"GOL--[P03]",
+"description":"Фасады центра Довженка\r\nстадия - Предпроект\r\nphase – Pre-Design",
+"status":1,
+"identifier":"gol-p03"
+},
+{
+"id":781,
+"name":"GoL--[S02]",
+"description":"стадия - Предпроект оплачиваемый\r\nphase - Pre-Design",
+"status":1,
+"identifier":"gol-s02"
+},
+{
+"id":648,
+"name":"Grasshopper-Lira",
+"description":null,
+"status":1,
+"identifier":"grasshopper-lira"
+},
+{
+"id":605,
+"name":"Grasshopper-Robot",
+"description":null,
+"status":1,
+"identifier":"grasshopper-robot"
+},
+{
+"id":606,
+"name":"Grasshopper-SAP2000",
+"description":null,
+"status":1,
+"identifier":"grasshopper-sap2000"
+},
+{
+"id":176,
+"name":"HR",
+"description":null,
+"status":1,
+"identifier":"staff"
+},
+{
+"id":819,
+"name":"ING--[S00]",
+"description":"Бизнес центр по ул. Инженерная, 1а в г. Киеве\r\nстадия - Предпроект\r\nphase – Pre-Design",
+"status":1,
+"identifier":"ing-p00"
+},
+{
+"id":165,
+"name":"IT",
+"description":"Информационные технологии",
+"status":1,
+"identifier":"it"
+},
+{
+"id":914,
+"name":"KSN-S00",
+"description":"\"Реконструкция нежилых помещений на улице Константиновской,71 в городе Киеве\"\r\nстадия - Предпроект\r\nphase – Pre-Design",
+"status":1,
+"identifier":"ksn-s00"
+},
+{
+"id":826,
+"name":"LKB--[C01]",
+"description":"Стадия - Рабочая документация\r\nОчередь проектирования - I\r\nStage - Construction Design\r\nZone - 01",
+"status":1,
+"identifier":"lkb-c01"
+},
+{
+"id":683,
+"name":"LKB--[D01]",
+"description":"Стадия - Проект \r\nОчередь проектирования - I \r\nStage – Design Development\r\nZone - 001",
+"status":1,
+"identifier":"lkb-d01"
+},
+{
+"id":878,
+"name":"LKB-AXX",
+"description":null,
+"status":1,
+"identifier":"lkb-axx"
+},
+{
+"id":528,
+"name":"LPK--[C00]",
+"description":"Стадия – Рабочая Документация\r\nОчередь проектирования - Весь объект \r\nStage – Construction Design\r\nZone - 000, All site ",
+"status":1,
+"identifier":"lpk-c00"
+},
+{
+"id":810,
+"name":"LPK--[D00a]",
+"description":"Корректировка стадии П\r\nСтадия - Проект \r\nОчередь проектирования - весь объект \r\nStage – Design Development\r\nZone - 000, All site",
+"status":1,
+"identifier":"lpk-d00a"
+},
+{
+"id":656,
+"name":"LPK-AI-[C00]",
+"description":"Стадия - Рабочая документация\r\nОчередь проектирования - весь объект \r\nЗдания - дома 001, 002.\r\nStage - Construction Design\r\nZone - 000, All site \r\nBuildings - Residental houses 001, 002.\r\nАрхитектурные Решения. Интерьеры",
+"status":1,
+"identifier":"lpk-ai-c00"
+},
+{
+"id":892,
+"name":"LPK-C01A",
+"description":"Корректировка \"ИТП\" и связанных с ним инженерных сетей.\r\nСтадия - Рабочая документация\r\nStage - Constuction Design \r\n",
+"status":1,
+"identifier":"lpk-c01a"
+},
+{
+"id":911,
+"name":"LZR-S00",
+"description":"\"Многофункциональный комплекс на улице Лазурной, в г.Полтава\"\r\nстадия - Предпроект\r\nphase – Pre-Design\r\n\r\n",
+"status":1,
+"identifier":"lzr-s00"
+},
+{
+"id":804,
+"name":"MS Project",
+"description":null,
+"status":1,
+"identifier":"ms-project"
+},
+{
+"id":769,
+"name":"OBE--[Z00]",
+"description":"Collaboration with BIM Point: Modeling of existing building from point clouds.\r\nProject location: \"Munich, Germany\":https:\/\/l.facebook.com\/l.php?u=https%3A%2F%2Fwww.google.pl%2Fmaps%2F%4048.1338095%2C11.5705068%2C114a%2C35y%2C246.96h%2C45.68t%2Fdata%3D!3m1!1e3&h=AT3YAh5i2fwz0IJcYnwW2NmfF8iqo5sis5YVUfooGOseZ08qIhPwJhjR8kasnLscC4CHiCSI0JG7V7VZJUFnWb0KfVDpEj2uk_U7G-VEp7vj7EYaJSFelNZuiA",
+"status":1,
+"identifier":"obe-z00"
+},
+{
+"id":779,
+"name":"OBL--[C00]",
+"description":"Стадия - Рабочая Документация\r\nОчередь проектирования - Весь объект\r\nStage - Construction Development \r\nZone - 000, All Site",
+"status":1,
+"identifier":"obl-c00"
+},
+{
+"id":778,
+"name":"OBL--[D00]",
+"description":"Стадия - Проект\r\nОчередь проектирования - Весь объект\r\nStage - Design Development \r\nZone - 000, All Site",
+"status":1,
+"identifier":"obl-d00"
+},
+{
+"id":768,
+"name":"OBL--[S00]",
+"description":"Оболонская школа\r\nстадия - Предпроект оплачиваемый\r\nphase – Pre-Design",
+"status":1,
+"identifier":"obl-s00"
+},
+{
+"id":864,
+"name":"ORL-S00",
+"description":"ул. Орлова, г. Ровно \r\nстадия - Предпроект оплачиваемый\r\nphase – Pre-Design",
+"status":1,
+"identifier":"orl-s00"
+},
+{
+"id":556,
+"name":"PcH--[Axx]",
+"description":"Стадия - Авторский надзор\r\nStage - Author's Supervision\r\nАвторский надзор по объекту: Комплекс багатоквартирних житлових будинків на вул. Пасічній, 133 у м. Львові",
+"status":1,
+"identifier":"pch-axx"
+},
+{
+"id":646,
+"name":"PcH--[D04]",
+"description":"«Будівництво багатоквартирних житлових будинків з об’єктами обслуговування та підземним паркінгом на вул. Пасічній, 133 у м. Львові (на ділянці \"Б\")»\r\nСтадия - Проект \r\nОчередь проектирования - IV\r\nЗдание - Жилой дом 7 (секции 701, 702, 703, 704), Детский сад\r\nStage - Design Development \r\nZone - 04 \r\nBuildings - Residental house 7 (sections 701, 702, 703, 704), Kindergarten",
+"status":1,
+"identifier":"pch-d04"
+},
+{
+"id":555,
+"name":"PcH--[F00]",
+"description":"Стадия - Постпроектное Сопровождение \r\nОчередь проектирования - Весь объект\r\nStage - Post-project \r\nZone - 000, All site\r\nКомплекс багатоквартирних житлових будинків на вул. Пасічній, 133 у м. Львові",
+"status":1,
+"identifier":"pch-f00"
+},
+{
+"id":794,
+"name":"PcH--[P05]",
+"description":"Разработка материалов для получения МБО (Оплачиваемый)\r\nстадия - Предпроект оплачиваемый\r\nphase – Pre-Design",
+"status":1,
+"identifier":"pch-p05"
+},
+{
+"id":824,
+"name":"PCH--[S05]",
+"description":"\"Будівництво ТзОВ \"ЖБК \"Ваш Дім\" багатоквартирних житлових будинків з вбудовано-прибудованими комерційними приміщеннями, паркінгом, даховими котельнями та\r\nтрансформаторною підстанцією на вул. Пасічній, 133, у м. Львові (у шести чергах будівництва)\"\r\nстадия - Предпроект оплачиваемый\r\nОчередь проектирования - V\r\nЗдание - Жилой дом 9, 10, 11 \r\nphase – Pre-Design\r\nZone - 05 \r\nBuildings - Residental house 9, 10, 11",
+"status":1,
+"identifier":"pch-s05"
+},
+{
+"id":908,
+"name":"PCH-D04A",
+"description":"Корректировка стадии \"П\" (отмена тех.этажа)\r\nОчередь проектирования- Четвертая.\r\nКорректируется часть ЖБ 07.\r\nStage – Design Development.\r\nZone - 07",
+"status":1,
+"identifier":"pch-d04a"
+},
+{
+"id":636,
+"name":"Portal",
+"description":"Корпоративный Портал Компании",
+"status":1,
+"identifier":"_rnd-portal"
+},
+{
+"id":767,
+"name":"Pragmatika",
+"description":null,
+"status":1,
+"identifier":"pragmatika"
+},
+{
+"id":553,
+"name":"Pro Жилье",
+"description":null,
+"status":1,
+"identifier":"pro-residential"
+},
+{
+"id":558,
+"name":"RcH--[Axx]",
+"description":"Стадия - Авторский надзор\r\nStage - Author's Supervision\r\nАвторский надзор по объекту: Будівництво житлового-офісного комплексу з підземним паркінгом по вул. Річна, 4 у Шевченківському районі м. Києва",
+"status":1,
+"identifier":"rch-axx"
+},
+{
+"id":508,
+"name":"RcH--[C01a]",
+"description":"Стадия - Рабочая документация (корректировка a)\r\nОчередь проектирования - I\r\nStage - Construction Design (revision a)\r\nZone - 01\r\nДополнительные работы по Речной, 4.",
+"status":1,
+"identifier":"rch-c01a"
+},
+{
+"id":717,
+"name":"RcH--[C01b]",
+"description":"Стадия - Рабочая документация (корректировка b)\r\nОчередь проектирования - I\r\nStage - Construction Design (revision b)\r\nZone - 01",
+"status":1,
+"identifier":"rch-c01b"
+},
+{
+"id":834,
+"name":"RCH--[C01c]",
+"description":"Корректировка ресторана\r\nСтадия - Рабочая документация (корректировка b)\r\nОчередь проектирования - I\r\nStage - Construction Design (revision b)\r\nZone - 01",
+"status":1,
+"identifier":"rch-c01c"
+},
+{
+"id":443,
+"name":"RcH--[C01]",
+"description":"Стадия - Рабочая документация\r\nОчередь проектирования - I\r\nStage - Construction Design\r\nZone - 01",
+"status":1,
+"identifier":"rch-c01"
+},
+{
+"id":409,
+"name":"Revit",
+"description":null,
+"status":1,
+"identifier":"revit"
+},
+{
+"id":695,
+"name":"Revit S",
+"description":null,
+"status":1,
+"identifier":"revit-s"
+},
+{
+"id":564,
+"name":"Rhino AC",
+"description":null,
+"status":1,
+"identifier":"rhino-ac"
+},
+{
+"id":617,
+"name":"Smart Plaza ",
+"description":"Gol – 000 – XX\r\nБудівництво торгівельно-розважального і спортивно - оздоровчого комплексу та з підземним\r\nпаркінгом, кінотеатром та житловими будинками з вбудовано-прибудованими приміщеннями на перетині\r\nвулиці Голосіївської, вулиці Васильківської та провул. Ужгородського",
+"status":1,
+"identifier":"smart-plaza"
+},
+{
+"id":876,
+"name":"SML-S00",
+"description":"\"Территория бизнес-парка \"Глория\" на улице Смольной, 9 в городе Киеве.\"(реконструкция + новые здания)\r\nстадия - Предпроект\r\nphase – Pre-Design",
+"status":1,
+"identifier":"sml-s00"
+},
+{
+"id":518,
+"name":"SP Documentation",
+"description":"Sole Proprietors Documentation – Документація Фізичних Осіб Підприємців",
+"status":1,
+"identifier":"sp-documentation"
+},
+{
+"id":420,
+"name":"Standards Translates",
+"description":null,
+"status":1,
+"identifier":"standards-translates"
+},
+{
+"id":919,
+"name":"Task\/Issue Tracker",
+"description":null,
+"status":1,
+"identifier":"task-issue-tracker"
+},
+{
+"id":873,
+"name":"TBS-S00--D",
+"description":"Alliance Highline, Tbilisi\r\nСтадия- Инженерная концепция\r\nphase- Pre-Designe",
+"status":1,
+"identifier":"tbs-s00-d"
+},
+{
+"id":872,
+"name":"TMK--[AXX]",
+"description":"Стадия - Авторский надзор\r\nStage - Author's Supervision\r\nАвторский надзор по объекту: Будівництво житлової та громадської забудови з автовокзалом на території по вул. Кільцева дорога, 1, 1а, 1в, обмеженої вул. Кільцева дорога, західною межею забудови по вулицям Теремківській та Жулянській і міською межею, у Голосіївському районі м. Києва",
+"status":1,
+"identifier":"tmk-axx"
+},
+{
+"id":799,
+"name":"TMK--[C01a]052",
+"description":"Проектирование диспетчерской в помещении автовокзала\r\nСтадия – Рабочая Документация (корректировка a)\r\nОчередь проектирования - I\r\nЗдание - 052\r\nStage – Construction Design (revision a)\r\nZone - 01\r\nBuilding - 052",
+"status":1,
+"identifier":"tmk-c01a-052"
+},
+{
+"id":855,
+"name":"TMK--[C01]",
+"description":"Стадия - Рабочая Документация\r\nОчередь проектирования - I\r\nЗдание - ТРЦ \r\nStage - Construction Design \r\nZone - 01\r\nBuilding - Shopping Mall",
+"status":1,
+"identifier":"tmk-c01-r"
+},
+{
+"id":708,
+"name":"TmK--[C02a]004",
+"description":"Стадия - Рабочая Документация (корректировка a)\r\nОчередь проектирования - II\r\nЗдание - Дом 004\r\nStage - Construction Design (revision a)\r\nZone - 02\r\nBuilding - 004",
+"status":1,
+"identifier":"tmk-c02a-004"
+},
+{
+"id":709,
+"name":"TmK--[C02a]006",
+"description":"Стадия - Рабочая Документация (корректировка a)\r\nОчередь проектирования - II\r\nЗдание - Дом 006\r\nStage - Construction Design (revision a)\r\nZone - 02\r\nBuilding - 006",
+"status":1,
+"identifier":"tmk-c02a-006"
+},
+{
+"id":841,
+"name":"TMK--[C02a]105",
+"description":"Проектирование КПП. Очередь строительства 2, номер по генплану 105\r\nСтадия - Рабочая Документация (корректировка a)\r\nОчередь проектирования - II\r\nЗдание - Дом 105\r\nStage - Construction Design (revision a)\r\nZone - 02\r\nBuilding - 105",
+"status":1,
+"identifier":"tmk-c02a-105"
+},
+{
+"id":800,
+"name":"TMK--[C02f]",
+"description":"Перепланировки квартир для отдела продаж\r\nСтадия - Рабочая Документация (корректировка e)\r\nОчередь проектирования - II\r\nЗдание - Дом 004,006\r\nStage - Construction Design (revision e)\r\nZone - 02\r\nBuilding - 004,006",
+"status":1,
+"identifier":"tmk-c02f"
+},
+{
+"id":710,
+"name":"TmK--[C02g]-007",
+"description":"Стадия - Рабочая Документация (корректировка g)\r\nОчередь проектирования - II\r\nЗдание - Дом 007\r\nStage - Construction Design (revision g)\r\nZone - 02\r\nBuilding - 007",
+"status":1,
+"identifier":"tmk-c02g-007"
+},
+{
+"id":711,
+"name":"TmK--[C02g]-008",
+"description":"Стадия - Рабочая Документация (корректировка g)\r\nОчередь проектирования - II\r\nЗдание - Дом 008\r\nStage - Construction Design (revision g)\r\nZone - 02\r\nBuilding - 008",
+"status":1,
+"identifier":"tmk-c02g-008"
+},
+{
+"id":859,
+"name":"TMK--[C02g]-009",
+"description":"Стадия - Рабочая Документация (корректировка g)\r\nОчередь проектирования - II\r\nЗдание - Комьюнити центр\r\nStage - Construction Design (revision g)\r\nZone - 02",
+"status":1,
+"identifier":"tmk-c02g-009"
+},
+{
+"id":877,
+"name":"TMK--[C02h]",
+"description":"Корректировка ВК в связи с изменением ТУ\r\nСтадия - Рабочая Документация (корректировка e)\r\nОчередь проектирования - II\r\nЗдание - Дом 004,006\r\nStage - Construction Design (revision e)\r\nZone - 02\r\nBuilding - 004,006",
+"status":1,
+"identifier":"tmk-c02h"
+},
+{
+"id":865,
+"name":"TMK--[C05]",
+"description":"Стадия - Рабочая Документация\r\nОчередь проектирования - V\r\nЗдание - Дом 010\r\nStage - Construction Design\r\nZone - 05\r\nBuilding - 010",
+"status":1,
+"identifier":"tmk-c05"
+},
+{
+"id":867,
+"name":"TMK--[C06]",
+"description":"Стадия - Рабочая Документация\r\nОчередь проектирования - V\r\nЗдание - Дом 012\r\nStage - Construction Design\r\nZone - 05\r\nBuilding - 012",
+"status":1,
+"identifier":"tmk-c06"
+},
+{
+"id":889,
+"name":"TMK--[C07]",
+"description":"Стадия - Рабочая Документация\r\nОчередь проектирования - VII\r\nЗдание - Дом 226\r\nStage - Construction Design\r\nZone - 07\r\nBuilding - 226",
+"status":1,
+"identifier":"tmk-c07"
+},
+{
+"id":890,
+"name":"TMK--[C08]",
+"description":"Стадия - Рабочая Документация\r\nОчередь проектирования - VIII\r\nЗдание - Дом 025\r\nStage - Construction Design\r\nZone - 08\r\nBuilding - 025",
+"status":1,
+"identifier":"tmk-c08"
+},
+{
+"id":811,
+"name":"TMK--[D00a]",
+"description":"Подается в экспертизу совместно с TMK--[D02g] под шифром TMK\/11-IIa-\r\nКоригування 6, 7, 8, 9, 10, 11 черг будівництва (200 тыс м2)\r\n\r\nСтадия - Проект (корректировка a)\r\nОчередь проектирования - 4-...\r\nStage - Design Development (revision a)\r\nZone - 4-...",
+"status":1,
+"identifier":"tmk-d00a"
+},
+{
+"id":712,
+"name":"TmK--[D02a]",
+"description":"Стадия - Проект (корректировка a)\r\nОчередь проектирования - II\r\nStage - Design Development (revision a)\r\nZone - 02",
+"status":1,
+"identifier":"tmk-d02a"
+},
+{
+"id":786,
+"name":"TMK--[D02b]",
+"description":"Анализ перехода класса последствий с СС2 на СС3 - ВОШЕЛ В СОСТАВ (ДОБВАЛЕН) В C02f\r\nСтадия - Проект (корректировка b)\r\nОчередь проектирования - II\r\nStage - Design Development (revision b)\r\nZone - 02",
+"status":1,
+"identifier":"tmk-d02b"
+},
+{
+"id":791,
+"name":"TMK--[D02g]",
+"description":"Подается в экспертизу совместно с TMK--[D00a] под шифром TMK\/11-IIa-\r\nКорректировка стадии П по дому 007 и 008\r\nСтадия - Проект (корректировка g)\r\nОчередь проектирования - II, дом 007, 008\r\nStage - Design Development (revision g)\r\nZone - 02, building 007, 008",
+"status":1,
+"identifier":"tmk-d02g"
+},
+{
+"id":899,
+"name":"TMK--[D09]",
+"description":"Стадия - Проект \r\nОчередь проектирования - IX\r\nStage - Design Development\r\nZone - 09",
+"status":1,
+"identifier":"tmk-d09"
+},
+{
+"id":844,
+"name":"TMK--[S04]",
+"description":"Предпроектные работы по Школе-садику\r\nстадия - Предпроект оплачиваемый\r\nphase – Pre-Design",
+"status":1,
+"identifier":"tmk-s04"
+},
+{
+"id":732,
+"name":"TmK--[V02a]006",
+"description":"Стадия - Инвестиционные альбомы\r\nОчередь проектирования - 02, дом 006\r\nStage - Investment Albums\r\nZone - 02, building 006",
+"status":1,
+"identifier":"tmk-v02a006"
+},
+{
+"id":817,
+"name":"TMK--[V02g]-008",
+"description":"Стадия - Инвестиционные альбомы (корректировка g)\r\nОчередь проектирования - II\r\nStage - Investment Albums (revision g)\r\nZone - 02\r\nДом 008",
+"status":1,
+"identifier":"tmk-v02g-008"
+},
+{
+"id":835,
+"name":"TMK--[V02g]007",
+"description":"Стадия - Инвестиционные альбомы (корректировка g)\r\nОчередь проектирования - II\r\nStage - Investment Albums (revision g)\r\nZone - 02\r\nДом 007",
+"status":1,
+"identifier":"tmk-v02g-007"
+},
+{
+"id":737,
+"name":"TmK--[Z02a]",
+"description":"Проектирование спорт. ядра при доме 006\r\nСтадия - Все стадии (корректировка a)\r\nОчередь проектирования - II\r\nStage - All (revision a)\r\nZone - 02",
+"status":1,
+"identifier":"tmk-z02a"
+},
+{
+"id":785,
+"name":"TMK--[Z02c]",
+"description":"Стадия - Все стадии (корректировка c)\r\nОчередь проектирования - II\r\nStage - All (revision c)\r\nZone - 002\r\nПроектирование стройчасти ТП1",
+"status":1,
+"identifier":"tmk-z02c"
+},
+{
+"id":740,
+"name":"TmK-G-[D02a]",
+"description":"Проектирование благоустройства территории 4, 6, 7, 8 домов + комьюнити + спортядро креативным отделом\r\nСтадия - Проект (корректировка a)\r\nОчередь проектирования - II\r\nStage - Design Development (revision a)\r\nZone - 02",
+"status":1,
+"identifier":"tmk-g-d02a"
+},
+{
+"id":853,
+"name":"TMK-G-[S00a]",
+"description":"Проектирование благоустройства территории 6, 7, 8, 9, 10, 11 черг будівництва (200 тыс м2)\r\nСтадия - Проект (корректировка a)\r\nОчередь проектирования - 4-...\r\nStage - Design Development (revision a)\r\nZone - 4-...",
+"status":1,
+"identifier":"tmk-g-s00a"
+},
+{
+"id":921,
+"name":"TMK-S01--GI",
+"description":"\"Концепция благоустройства ТРЦ \"Республика\"\" \r\nстадия - Предпроект\r\nphase – Pre-Design",
+"status":1,
+"identifier":"tmk-s01-gi"
+},
+{
+"id":765,
+"name":"TmK-[V00]-1PR",
+"description":"Стадия - Рекламные материалы для видеоролика - 11 кадров\r\nОчередь проектирования - Весь объект \r\nВизуализация ЖК \"Республика\"",
+"status":1,
+"identifier":"tmk-v00-1pr"
+},
+{
+"id":722,
+"name":"TpL--[A01]",
+"description":"Стадия - Авторский надзор\r\nStage - Author's Supervision\r\nОчередь проектирования –I\r\nЗдания – Жилые дома 001-005\r\nZone – 01\r\nBuildings – Residental houses 001-005",
+"status":1,
+"identifier":"tpl-a01"
+},
+{
+"id":723,
+"name":"TpL--[A02]",
+"description":"Стадия - Авторский надзор\r\nStage - Author's Supervision\r\nОчередь проектирования –II\r\nЗдания – Жилые дома 006-010\r\nZone – 02\r\nBuildings – Residental houses 006-010",
+"status":1,
+"identifier":"tpl-a02"
+},
+{
+"id":880,
+"name":"TpL--[A03]",
+"description":"Стадия - Авторский надзор\r\nStage - Author's Supervision\r\nОчередь проектирования –I\r\nЗдания – Жилые дома 011-012\r\nZone – 03\r\nBuildings – Residental houses 011-012",
+"status":1,
+"identifier":"tpl-a03"
+},
+{
+"id":818,
+"name":"TPL--[C01b]",
+"description":"Дополнительные работы по разработке внутренних сетей ЖЕКа \r\nСтадия - Рабочая документация (корректировка b)\r\nОчередь проектирования –I\r\nЗдания – Жилые дома 003; 005\r\nStage - Construction Design (revision b)\r\nZone – 01\r\nBuildings – Residental houses 003; 005",
+"status":1,
+"identifier":"tpl-c01b"
+},
+{
+"id":619,
+"name":"TpL--[C01]",
+"description":"Стадия – Рабочая Документация\r\nОчередь проектирования –I\r\nЗдания – Жилые дома 001-005\r\nStage – Construction Documentation\r\nZone – 01\r\nBuildings – Residental houses 001-005",
+"status":1,
+"identifier":"tpl-c01"
+},
+{
+"id":875,
+"name":"TPL--[C01]001B1 ",
+"description":"Дополнительные работы по разработке внутренних сетей Центру відпочинку \r\nСтадия - Рабочая документация (корректировка b1)\r\nОчередь проектирования –I\r\nЗдания – Жилые дома 001\r\nStage - Construction Design (revision b1)\r\nZone – 01\r\nBuildings – Residental houses 001",
+"status":1,
+"identifier":"tpl-c01-001b1"
+},
+{
+"id":814,
+"name":"TpL--[C01а]",
+"description":"Корректировка 1я очередь 3 и 4 дом новые входные группы\r\nСтадия - Рабочая документация (корректировка a)\r\nОчередь проектирования –I\r\nЗдания – Жилые дома 003-004\r\nStage - Construction Design (revision a)\r\nZone – 01\r\nBuildings – Residental houses 003-004",
+"status":1,
+"identifier":"tpl-c01a"
+},
+{
+"id":813,
+"name":"TPL--[C02a]",
+"description":"Перепланировка суперквартиры 10 дом.\r\nСтадия - Рабочая документация (корректировка a)\r\nОчередь проектирования - II\r\nStage - Construction Design (revision a)\r\nZone - 02",
+"status":1,
+"identifier":"tpl-c02a"
+},
+{
+"id":821,
+"name":"TPL--[C02b]",
+"description":"Диспетчеризация воронок обогрева\r\nСтадия - Рабочая документация (корректировка b)\r\nОчередь проектирования –I, II\r\nЗдания – Жилые дома 006-010\r\nStage - Construction Design (revision b)\r\nZone – 01, 02\r\nBuildings – Residental houses 006-010",
+"status":1,
+"identifier":"tpl-c02b"
+},
+{
+"id":677,
+"name":"TpL--[C02]",
+"description":"Стадия – Рабочая Документация\r\nОчередь проектирования –II\r\nЗдания – Жилые дома 006-010\r\nStage – Construction Documentation\r\nZone – 02\r\nBuildings – Residental houses 006-010",
+"status":1,
+"identifier":"tpl-c02"
+},
+{
+"id":866,
+"name":"TPL--[C02]307",
+"description":"Проектирование трансформаторная подстанция\r\nСтадия – Рабочая Документация\r\nОчередь проектирования –II\r\nЗдания – трансформаторная подстанция\r\nStage – Construction Documentation\r\nZone – 02",
+"status":1,
+"identifier":"tpl-c02-307"
+},
+{
+"id":886,
+"name":"TPL--[C02]402",
+"description":"Проектирование контрольно-пропускного пункта №2\r\nСтадия – Рабочая Документация \r\nОчередь проектирования –II\r\nЗдания – контрольно-пропускной пункт\r\nStage – Construction Documentation\r\nZone – 02",
+"status":1,
+"identifier":"tpl-c02-402"
+},
+{
+"id":742,
+"name":"TpL--[C03]",
+"description":"Стадия – Рабочая Документация\r\nОчередь проектирования –III\r\nЗдания – Жилые дома 007-...\r\nStage – Construction Documentation\r\nZone – 03\r\nBuildings – Residental houses 007-...",
+"status":1,
+"identifier":"tpl-c03"
+},
+{
+"id":832,
+"name":"TPL--[C03]311",
+"description":"Проектирование газовой котельной\r\nСтадия – Рабочая Документация\r\nОчередь проектирования –III\r\nЗдания – газовая котельная\r\nStage – Construction Documentation\r\nZone – 03\r\n",
+"status":1,
+"identifier":"tpl-c03-311"
+},
+{
+"id":809,
+"name":"TPL--[C05]",
+"description":"Стадия – Рабочая Документация\r\nОчередь проектирования – V\r\nЗдания – Жилые дома 013-016\r\nStage – Construction Documentation\r\nZone – 05\r\nBuildings – Residental houses 013-016",
+"status":1,
+"identifier":"tpl-c05"
+},
+{
+"id":842,
+"name":"TPL--[C06]",
+"description":"Стадия – Рабочая Документация\r\nОчередь проектирования – VI\r\nЗдания – Жилые дома 017-019\r\nStage – Construction Documentation\r\nZone – 06\r\nBuildings – Residental houses 017-019",
+"status":1,
+"identifier":"tpl-c06"
+},
+{
+"id":903,
+"name":"TPL--[C08]",
+"description":"Стадия – Рабочая Документация\r\nОчередь проектирования – VIII\r\nЗдания – Жилые дома 023-026\r\nStage – Construction Documentation\r\nZone – 08\r\nBuildings – Residental houses 023-026",
+"status":1,
+"identifier":"tpl-c08"
+},
+{
+"id":902,
+"name":"TPL--[C09]",
+"description":"Стадия – Рабочая Документация\r\nОчередь проектирования – IX\r\nЗдания – Жилые дома 027-030\r\nStage – Construction Documentation\r\nZone – 09\r\nBuildings – Residental houses 027-030",
+"status":1,
+"identifier":"tpl-c09"
+},
+{
+"id":891,
+"name":"TPL--[C10]",
+"description":"Стадия – Рабочая Документация\r\nОчередь проектирования – X\r\nЗдания – Жилые дома 031-033\r\nStage – Construction Documentation\r\nZone – 10\r\nBuildings – Residental houses 031-033",
+"status":1,
+"identifier":"tpl-c10"
+},
+{
+"id":746,
+"name":"TpL--[D00c]",
+"description":"Стадия - Проект (ре-концепция 3,5,6,7,8,9,10 очередей) (корректировка с)\r\nОчередь проектирования - 3,5,6,7,8,9,10\r\nStage – Design Development (reconception zone 3,5,6,7,8,9,10) (revision с)\r\nZone - 3,5,6,7,8,9,10",
+"status":1,
+"identifier":"tpl-d00c"
+},
+{
+"id":840,
+"name":"TPL--[D02с]",
+"description":"Стадия - Проект (корректировка \"a\" в экспертизе очередь 01-02)\r\nОчередь проектирования - 01-02\r\nStage – Design Development (revision \"a\" zone 01-02)\r\nZone - 01-02",
+"status":1,
+"identifier":"tpl-d02c"
+},
+{
+"id":910,
+"name":"TpL--[D04]",
+"description":"Стадия - Проект(корректировка в экспертизе Школа)\r\nОчередь проектирования - 04\r\nStage – Design Development (revision zone 04)\r\nZone - 04",
+"status":1,
+"identifier":"tpl-d04"
+},
+{
+"id":748,
+"name":"TpL--[D11]",
+"description":"Стадия - Проект (корректировка П ТЦ)\r\nОчередь проектирования - 11\r\nStage – Design Development (revision zone 11)\r\nZone - 11",
+"status":1,
+"identifier":"tpl-d11"
+},
+{
+"id":604,
+"name":"TpL--[S04]",
+"description":"Стадия - Предпроект оплачиваемый (корректировка в экспертизе очередь 04 (д\/сад на 153 м c нач\/шк на 320 м)\r\nОчередь проектирования - 04\r\nStage – Design Development (revision zone 04 (k\/gard for 153 pl & prim\/sch for 320 pl)\r\nZone - 04",
+"status":1,
+"identifier":"tpl-s04"
+},
+{
+"id":822,
+"name":"TPL--[V03]",
+"description":"Стадия - Инвестиционные альбомы \r\nОчередь проектирования - 03\r\nStage - Investment Albums\r\nZone - 03",
+"status":1,
+"identifier":"tpl-v03"
+},
+{
+"id":851,
+"name":"TPL--[V05]",
+"description":"Стадия - Инвестиционные альбомы \r\nОчередь проектирования - 05\r\nStage - Investment Albums\r\nZone - 05",
+"status":1,
+"identifier":"tpl-v05"
+},
+{
+"id":888,
+"name":"TPL--[V06]",
+"description":"Стадия - Инвестиционные альбомы \r\nОчередь проектирования - 06\r\nStage - Investment Albums\r\nZone - 06",
+"status":1,
+"identifier":"tpl-v06"
+},
+{
+"id":718,
+"name":"TpL-YEE-[C02] (PRO Energy +)",
+"description":"Стадия – Рабочая Документация\r\nОчередь проектирования –II\r\nЗдания – разработка рабочей документации на PRO Energy + квартиры\r\nStage – Construction Documentation\r\nZone – 02\r\nBuildings – development of working documentation for PRO Energy + apartments",
+"status":1,
+"identifier":"tpl-yee-c02"
+},
+{
+"id":820,
+"name":"TPL-YVE-[C02]",
+"description":"Проектирование вентилированной фасадной системы Сканрок \r\nСтадия – Рабочая Документация\r\nОчередь проектирования –II\r\nЗдания – Жилые дома 008\r\nStage – Construction Documentation\r\nZone – 02\r\nBuildings – Residental houses 008",
+"status":1,
+"identifier":"tpl-yve-c02"
+},
+{
+"id":755,
+"name":"UnC-C01A",
+"description":"Юнит Холдингс – участок Z01\r\nПервая очередь строительства - семи-этажное офисное здание B5 и шести-этажное офисное здание B7 c паркингами.\r\nСтадия – Рабочая Документация\r\nОчередь проектирования - A\r\nЗдание – Офисное сооружение B5 и B7\r\nStage – Construction Design\r\nZone – A\r\nBuildings – office building B5 and B7",
+"status":1,
+"identifier":"unc-c01a"
+},
+{
+"id":856,
+"name":"UNC-C01B-D-L5",
+"description":"Инженерная часть (ОВ, ВК, ЭО) для здания ДТЭК.\r\nСтадия - Рабочая документация\r\nОчередь проектирования -I\r\nЗдание - B12 - этаж 5\r\nStage - Constuction Design \r\nZone - B12 - Level 5",
+"status":1,
+"identifier":"unc-c01b-d-l5"
+},
+{
+"id":857,
+"name":"UNC-C01B-D-L6",
+"description":"Инженерная часть (ОВ, ВК, ЭО) для здания ДТЭК.\r\nСтадия - Рабочая документация\r\nОчередь проектирования -I\r\nЗдание - B12 - этаж 6\r\nStage - Constuction Design \r\nZone - B12 - Level 6",
+"status":1,
+"identifier":"unc-c01b-d-l6"
+},
+{
+"id":860,
+"name":"UNC-C01C-B14",
+"description":"Стадия \"РД\" для здания B14 (медиа центр).\r\nСтадия - Рабочая документация\r\nОчередь проектирования -III\r\nЗдание - B14\r\nStage - Constuction Design \r\nZone - B14",
+"status":1,
+"identifier":"unc-c01c-b14"
+},
+{
+"id":861,
+"name":"UNC-C01C-B15",
+"description":"стадия \"РД\" для здания B15 (офисы)\/\r\nСтадия - Рабочая документация\r\nОчередь проектирования -III\r\nЗдание - B15\r\nStage - Constuction Design \r\nZone - B15",
+"status":1,
+"identifier":"unc-c01c-b15"
+},
+{
+"id":756,
+"name":"UnC-C02A",
+"description":"Юнит Житлоинвест – участок Z02\r\nПервая очередь строительства многосекционных жилых домов А5 (этажность 25,8) и А7 (этажность 24, 9, 8, 7) с паркингами\r\nСтадия - Рабочая Документация\r\nОчередь проектирования - A\r\nЗдание – жилой дом A5 и A7\r\nStage - Construction Design\r\nZone - A\r\nBuildings – Residental house A5 and A7",
+"status":1,
+"identifier":"unc-c02a"
+},
+{
+"id":727,
+"name":"UnC-D01",
+"description":"Стадия - Проект\r\nОчередь проектирования - весь объект (+участок ТОВ\"Юніт Холдингс\"+)\r\nОфисы В5, В6, В7, В9, В10, В11, В12, В17, В18, В19, В20, В21, В22. Жильё А5    \r\nStage - Design Development \r\nZone - 000, All site",
+"status":1,
+"identifier":"unc-d01"
+},
+{
+"id":905,
+"name":"UNC-D01C",
+"description":"Корректировка стадии \"П\".\r\nОчередь проектирования - первая.\r\nКорректируются офисы B14, B15 (без изменений подается офис В17).\r\nStage – Design Development.\r\nZone - B14,B15,B17. \r\n",
+"status":1,
+"identifier":"unc-d01c"
+},
+{
+"id":728,
+"name":"UnC-D02",
+"description":"Стадия - Проект\r\nОчередь проектирования - весь объект (+участок ТОВ\"Юніт Житлоінвест\"+)\r\nЖильё А1, А2, А3, А4, А7, А8. Школа S1. Офис В8 \r\nStage - Design Development \r\nZone - 000, All site",
+"status":1,
+"identifier":"unc-d02"
+},
+{
+"id":906,
+"name":"UNC-D02A",
+"description":"Корректировка стадии \"П\"\r\nОчередь проектирования- Вторая.\r\nКорректируются дома А05(быв.А01), А07(быв.А02).\r\nStage – Design Development.\r\nZone - А05, А07.",
+"status":1,
+"identifier":"unc-d02a"
+},
+{
+"id":836,
+"name":"UnC-D03",
+"description":"Стадия - Проект\r\nОчередь проектирования - III (участок ТОВ \"БОРИЧІВ ТІК\")\r\nЖилой дом А1 (9 секций) с паркингами \r\nStage - Design Development \r\nZone - III",
+"status":1,
+"identifier":"unc-d03"
+},
+{
+"id":887,
+"name":"UNC-V00",
+"description":"Рекламные материалы для всего комплекса UNIT.Сity\r\n",
+"status":1,
+"identifier":"unc-v00"
+},
+{
+"id":879,
+"name":"UNC-V02A-A07",
+"description":"Инвестиционные альбомы. 1-я очередь строительства, дом А-07(9 секций).\r\nСтадия- Рабочая документация.\r\nStage - Construction Development \r\n",
+"status":1,
+"identifier":"unc-v02a-a07"
+},
+{
+"id":726,
+"name":"Unit City ",
+"description":"UnC - 000 - XX\r\nБудівництво житлово-офісного комплексу з об’єктами торгово-розважальної, ринкової, соціальної інфраструктури та паркінгами на вул. Сім’ї Хохлових, 8 у Шевченківському районі міста Києва\r\n",
+"status":1,
+"identifier":"unit-city"
+},
+{
+"id":913,
+"name":"VES--[S00]",
+"description":"Стадия - Предпроект оплачиваемый (центр розвитку дитини)\r\nОчередь проектирования - 00\r\nStage – Design Development (child development center)\r\nZone - 00",
+"status":1,
+"identifier":"ves-s00"
+},
+{
+"id":917,
+"name":"VKV-S00",
+"description":"проезд Военный \r\nстадия - Предпроект оплачиваемый\r\nphase – Pre-Design",
+"status":1,
+"identifier":"vkv-s00"
+},
+{
+"id":562,
+"name":"VsS--[Axx]",
+"description":"Стадия - Авторский надзор\r\nStage - Author's Supervision\r\nАвторский надзор по объекту: Будівництво житлово-офісного торговельного комплексу з вбудовано-прибудованими приміщеннями громадського, соціального та торгівельного призначення з підземним та наземним паркінгом на вул. Регенераторній, 4, просп. Возз’єднання, 19, вул. Березневій, 12 у Дніпровському районі м. Києва",
+"status":1,
+"identifier":"vss-axx"
+},
+{
+"id":764,
+"name":"VsS--[C03b]",
+"description":"Проектирование автоматического полива парково-дворовых зон по Воссоединения (дома 005,006)\r\nСтадия - Рабочая документация (корректировка b)\r\nОчередь проектирования - III\r\nStage - Construction Design (revision b)\r\nZone - 03",
+"status":1,
+"identifier":"vss-c03b"
+},
+{
+"id":827,
+"name":"VSS--[C03c]",
+"description":"КОРРЕКТИРОВКА автоматического полива парково-дворовых зон по Воссоединения (дома 005,006)\r\nСтадия - Рабочая документация (корректировка c)\r\nОчередь проектирования - III\r\nStage - Construction Design (revision c)\r\nZone - 03",
+"status":1,
+"identifier":"vss-c03c"
+},
+{
+"id":900,
+"name":"VSS--[C03d]",
+"description":"Корректировка садика при доме 006\r\nСтадия - Рабочая документация (корректировка d)\r\nОчередь проектирования - III\r\nStage - Construction Design (revision d)\r\nZone - 03",
+"status":1,
+"identifier":"vss-c03d"
+},
+{
+"id":533,
+"name":"VsS--[C04]",
+"description":"Стадия - Рабочая Документация\r\nОчередь проектирования - IV\r\nЗдания – Жилой дом 007\r\nStage - Construction Design\r\nZone - 04\r\nBuildings – Residental house 007",
+"status":1,
+"identifier":"vss-c04"
+},
+{
+"id":904,
+"name":"VSS--[C05a]",
+"description":"Перепланировка встроенных помещений дома 004 под детский клуб.\r\nСтадия - Рабочая документация\r\nОчередь проектирования - IX \r\nЗдание - Дом 008 - секции 801-803 (21 очередь)\r\nStage - Constuction Design\r\nZone - 09\r\nBuildings - Residental house 008, sections 801-803 (21 очередь) ",
+"status":1,
+"identifier":"vss-c05a"
+},
+{
+"id":634,
+"name":"VsS--[C05]",
+"description":"Стадия - Рабочая документация\r\nОчередь проектирования - V \r\nЗдание - Дом 004 - секции 401-403 (17 очередь)\r\nStage - Constuction Design\r\nZone - 05\r\nBuildings - Residental house 004, sections 401-303 (17 очередь) \r\nПроектирование 5 этапа строительства",
+"status":1,
+"identifier":"vss-c05"
+},
+{
+"id":843,
+"name":"VSS--[C08a]",
+"description":"Перенос узла ввода\r\nСтадия - Рабочая документация (корректировка c)\r\nОчередь проектирования - VIII \r\nЗдание - Дом 003 - секции 301-309 (17 очередь)\r\nStage - Constuction Design (revision c)\r\nZone - 08\r\nBuildings - Residental house 003, sections 301-309 (17 очередь) ",
+"status":1,
+"identifier":"vss-c08a"
+},
+{
+"id":870,
+"name":"VSS--[C08b]",
+"description":"Проектирование автоматического полива парково-дворовых зон по Воссоединения (дом 003)\r\nСтадия - Рабочая документация (корректировка b)\r\nОчередь проектирования - VIII\r\nStage - Construction Design (revision b)\r\nZone - 08",
+"status":1,
+"identifier":"vss-c08b"
+},
+{
+"id":599,
+"name":"VsS--[C08]",
+"description":"Стадия - Рабочая документация\r\nОчередь проектирования - VIII \r\nЗдание - Дом 003 - секции 301-309 (17 очередь)\r\nStage - Constuction Design\r\nZone - 08\r\nBuildings -  Residental house 003, sections 301-309 (17 очередь) \r\nПроектирование 3 этапа строительства \r\n\r\n",
+"status":1,
+"identifier":"vss-c08"
+},
+{
+"id":871,
+"name":"VsS--[C09a]",
+"description":"Проектирование автоматического полива парково-дворовых зон по Воссоединения (дома 004,008)\r\nСтадия - Рабочая документация (корректировка a)\r\nОчередь проектирования - V, IX\r\nStage - Construction Design (revision a)\r\nZone - 05, 09",
+"status":1,
+"identifier":"vss-c09a"
+},
+{
+"id":680,
+"name":"VsS--[C09]",
+"description":"Стадия - Рабочая документация\r\nОчередь проектирования - IX \r\nЗдание - Дом 008 - секции 801-803 (21 очередь)\r\nStage - Constuction Design\r\nZone - 09\r\nBuildings - Residental house 008, sections 801-803 (21 очередь) \r\nПроектирование 9 этапа строительства",
+"status":1,
+"identifier":"vss-c09"
+},
+{
+"id":907,
+"name":"VSS--[C11a]",
+"description":"Корректировка лестничных маршей.\r\nСтадия - Рабочая Документация\r\nОчередь проектирования - XI\r\nЗдание – Паркинги\r\nStage - Construction Design\r\nZone - 11",
+"status":1,
+"identifier":"vss-c11a"
+},
+{
+"id":830,
+"name":"VSS--[C11]",
+"description":"Паркинги\r\nСтадия - Рабочая Документация\r\nОчередь проектирования - XI\r\nЗдание – Паркинги\r\nStage - Construction Design\r\nZone - 11",
+"status":1,
+"identifier":"vss-c11"
+},
+{
+"id":862,
+"name":"VSS--[C12]",
+"description":"Паркинги\r\nСтадия - Рабочая Документация\r\nОчередь проектирования - XI\r\nЗдание – Паркинги 012, 013\r\nStage - Construction Design\r\nZone - 11",
+"status":1,
+"identifier":"vss-c12"
+},
+{
+"id":922,
+"name":"VSS--[D05a]",
+"description":"Корректировка стадии П. Перепланировка встроенных помещений дома 004 под детский клуб.\r\nСтадия - Проект\r\nОчередь проектирования - V (корректировка a)\r\nStage - Design Development \r\nZone - 05 (revision a)",
+"status":1,
+"identifier":"vss-d05a"
+},
+{
+"id":912,
+"name":"VSS--[D12]",
+"description":"Корректировка стадии П паркинги 009-013\r\nСтадия - Проект\r\nОчередь проектирования - XI,XII\r\nStage - Design Development \r\nZone - 11,12",
+"status":1,
+"identifier":"vss-d12"
+},
+{
+"id":570,
+"name":"VsS--[F00]",
+"description":"Стадия - Постпроектное Сопровождение \r\nОчередь проектирования - Весь объект\r\nStage - Post-project \r\nZone - 000, All site",
+"status":1,
+"identifier":"vss-f00"
+},
+{
+"id":831,
+"name":"VSS--[S10]",
+"description":"ТРЦ\r\nстадия - Предпроект оплачиваемый\r\nphase – Pre-Design",
+"status":1,
+"identifier":"vss-s10"
+},
+{
+"id":782,
+"name":"VsS--[S11]",
+"description":"Паркинги\r\nстадия - Предпроект оплачиваемый\r\nphase - Pre-Design",
+"status":1,
+"identifier":"vss-s11"
+},
+{
+"id":893,
+"name":"VSS--[T05]",
+"description":"Стадия - Технические паспорта, дом 004\r\nОчередь проектирования - V\r\nStage - Post-project \r\nZone - 05.\r\nПодготовка материалов для БТИ по этапу С05.",
+"status":1,
+"identifier":"vss-t05"
+},
+{
+"id":833,
+"name":"VSS--[T08]",
+"description":"Стадия - Технические паспорта\r\nОчередь проектирования - VIII\r\nStage - Post-project \r\nZone - 08.\r\nПодготовка материалов для БТИ по этапу С08.",
+"status":1,
+"identifier":"vss-t08"
+},
+{
+"id":894,
+"name":"VSS--[T09]",
+"description":"Стадия - Технические паспорта, дом 008\r\nОчередь проектирования - IХ\r\nStage - Post-project \r\nZone - 09.\r\nПодготовка материалов для БТИ по этапу С09.",
+"status":1,
+"identifier":"vss-t09"
+},
+{
+"id":733,
+"name":"VsS--[V00a]",
+"description":"Стадия - Инвестиционные альбомы. Корректировка в связи с перепланировкой 1х этажей\r\nОчередь проектирования - все\r\nStage - Investment Albums. Corrections\r\nZone - All",
+"status":1,
+"identifier":"vss-v00a"
+},
+{
+"id":815,
+"name":"VSS--[V04]",
+"description":"Стадия - Инвестиционные альбомы \r\nОчередь проектирования - IV\r\nStage - Investment Albums\r\nZone - 04",
+"status":1,
+"identifier":"vss-v04"
+},
+{
+"id":918,
+"name":"VSS--[V05a]",
+"description":"ДОПРАБОТЫ - АЛЬБОМЫ ПРО-КВАРТИР\r\n\r\nСтадия - Инвестиционные альбомы \r\nОчередь проектирования - IV, V\r\nStage - Investment Albums\r\nZone - 04, 05\r\nДом 004,007",
+"status":1,
+"identifier":"vss-v05a"
+},
+{
+"id":802,
+"name":"VSS--[V05]",
+"description":"Стадия - Инвестиционные альбомы \r\nОчередь проектирования - V\r\nStage - Investment Albums\r\nZone - 05\r\nДом 004",
+"status":1,
+"identifier":"vss-v05"
+},
+{
+"id":825,
+"name":"VsS--[V08a]",
+"description":"ДОПРАБОТЫ - АЛЬБОМЫ ПРО-КВАРТИР\r\n\r\nСтадия - Инвестиционные альбомы \r\nОчередь проектирования - VIII\r\nStage - Investment Albums\r\nZone - 08\r\nДом 003\r\n\r\n",
+"status":1,
+"identifier":"vss-v08a"
+},
+{
+"id":665,
+"name":"VsS--[V08]",
+"description":"Стадия - Инвестиционные альбомы \r\nОчередь проектирования - VIII\r\nStage - Investment Albums\r\nZone - 08\r\nДом 003",
+"status":1,
+"identifier":"vss-v08"
+},
+{
+"id":803,
+"name":"VSS--[V09]",
+"description":"Стадия - Инвестиционные альбомы \r\nОчередь проектирования - IX\r\nStage - Investment Albums\r\nZone - 09\r\nДом 008",
+"status":1,
+"identifier":"vss-v09"
+},
+{
+"id":789,
+"name":"VSS-AI-[C04]",
+"description":"Стадия - Рабочая документация дизайн-проекта\r\nОчередь проектирования - IV\r\nЗдание - секции 007\r\nStage - Construction Design\r\nZone - 04\r\nBuildings - 007",
+"status":1,
+"identifier":"vss-ai-c04"
+},
+{
+"id":698,
+"name":"VSS-AI-[C08]",
+"description":"Стадия - Рабочая документация дизайн-проекта\r\nОчередь проектирования - VIII\r\nЗдание - секции 00301-00309\r\nStage - Construction Design\r\nZone - 08\r\nBuildings - section 00301-00309\r\nДизайн-проект МОПов.",
+"status":1,
+"identifier":"vss-ai-c08"
+},
+{
+"id":790,
+"name":"VSS-AI-[C09]",
+"description":"АИ по дому 004 и 008\r\nСтадия - Рабочая документация дизайн-проекта\r\nОчередь проектирования - V, IX\r\nЗдание - 004,008\r\nStage - Construction Design\r\nZone - 05,09\r\nBuildings - 004,008",
+"status":1,
+"identifier":"vss-ai-c09"
+},
+{
+"id":758,
+"name":"VsS-ANS-[C00] (VSS--[C00c])",
+"description":"ПД выдается под старым шифром. Новый, который в скобках, для создания структуры папок.\r\nРазработка навигации\r\nСтадия - Рабочая документация \r\nОчередь проектирования - весь объект \r\nStage - Construction Design\r\nZone - all",
+"status":1,
+"identifier":"vss-ans-c00"
+},
+{
+"id":640,
+"name":"VSS-E-[Z00a]",
+"description":"Стадия - Все стадии (корректировка а)\r\nОчередь проектирования - Весь объект \r\nStage - All (revision a)\r\nZone - 000, All site\r\nДекорация фасадов промзадний - этап 2",
+"status":1,
+"identifier":"vss-e-z00a"
+},
+{
+"id":863,
+"name":"VSS-G-[C09]",
+"description":"Стадия - Рабочая документация\r\nОчередь проектирования - 4,5,8,9\r\nЗдание - Дома 003,004,008,007\r\nStage - Constuction Design\r\nZone - 4,5,8,9\r\nBuildings - Residental house 003,004,008,007",
+"status":1,
+"identifier":"vss-g-c09"
+},
+{
+"id":874,
+"name":"VTK-S00",
+"description":"Ватутинки\r\nстадия - Предпроект оплачиваемый\r\nphase – Pre-Design",
+"status":1,
+"identifier":"vtk-s00"
+},
+{
+"id":754,
+"name":"VVL--[D00]",
+"description":"Стадия - Проект\r\nОчередь проектирования - Весь объект\r\nStage - Design Development \r\nZone - 000, All Site",
+"status":1,
+"identifier":"vvl-d00"
+},
+{
+"id":784,
+"name":"VZD-D00",
+"description":"Стадия - Проект\r\nОчередь проектирования - Весь объект\r\nStage - Design Development \r\nZone - 000, All Site",
+"status":1,
+"identifier":"vzd-d00"
+},
+{
+"id":707,
+"name":"VZD-S00",
+"description":"просп. Воздухофлотский \r\nстадия - Предпроект оплачиваемый\r\nphase – Pre-Design",
+"status":1,
+"identifier":"vzd-s00"
+},
+{
+"id":793,
+"name":"WAF-2018",
+"description":"Подготовка к World Architecture Festival 2018",
+"status":1,
+"identifier":"waf-2018"
+},
+{
+"id":745,
+"name":"XXX-P00",
+"description":null,
+"status":1,
+"identifier":"s-pre"
+},
+{
+"id":561,
+"name":"Zab--[Axx]",
+"description":"Стадия - Авторский надзор\r\nStage - Author's Supervision\r\nАвторский надзор по объекту: Реконструкція існуючих будівель і споруд під шкільний комплекс Печерської міжнародної школи по вул. Віктора Забіли, 7-A у Голосіївському районі м.Києва (коригування 2, 3, 4 черг будівництва)",
+"status":1,
+"identifier":"zab-axx"
+},
+{
+"id":850,
+"name":"ZAB--[C02]",
+"description":"Очередь проектирования - II\r\nЗдание - школа\r\nStage - Construction Design \r\nZone - 02\r\n",
+"status":1,
+"identifier":"zab-c02"
+},
+{
+"id":854,
+"name":"ZAB--[D02a]",
+"description":"Расстановка мебели вместо раздела ТХ в стадии П",
+"status":1,
+"identifier":"zab-d02a"
+},
+{
+"id":788,
+"name":"ZAB--[D02]",
+"description":"Стадия - Проект\r\nОчередь проектирования - II\r\nStage - Design Development \r\nZone - 02",
+"status":1,
+"identifier":"zab-d02"
+},
+{
+"id":828,
+"name":"ZAB--[F00]",
+"description":"Стадия - Постпроектное Сопровождение \r\nОчередь проектирования - Весь объект\r\nStage - Post-project \r\nZone - 000, All site",
+"status":1,
+"identifier":"zbl-f00"
+},
+{
+"id":702,
+"name":"ZaB--[P02]",
+"description":"Предпроект видеотеки. Теперь оплачиваемый!\r\nстадия - Предпроект оплачиваемый\r\nphase – Pre-Design",
+"status":1,
+"identifier":"zab-p02"
+},
+{
+"id":762,
+"name":"ZAB-1PM-[Z02]",
+"description":"Содействие заказчику в сборе исходных данных и пр.\r\nСтадия - Все стадии \r\nОчередь проектирования - II\r\nStage - All\r\nZone - 02",
+"status":1,
+"identifier":"zab-1pm-z02"
+},
+{
+"id":849,
+"name":"ZAB-GIH-[D02]",
+"description":"Визуализация лавочек.\r\nСтадия - Проект\r\nОчередь проектирования - II\r\nStage - Design Development \r\nZone - 02",
+"status":1,
+"identifier":"zab-gih-d02"
+},
+{
+"id":559,
+"name":"ZrC--[Axx]",
+"description":"Стадия - Авторский надзор\r\nStage - Author's Supervision\r\nАвторский надзор по объекту: Будівництво громадсько-житлового комплексу з вбудованими приміщеннями та підземним паркінгом на вул. Зарічній, 16 у Дарницькому районі м. Києва",
+"status":1,
+"identifier":"zrc-axx"
+},
+{
+"id":869,
+"name":"ZRC--[C00c]",
+"description":"Cтадия - Рабочая Документация (корректировка c)\r\nОчередь проектирования - весь объект \r\nStage - Construction Design (revision с)\r\nZone - 000, All site\r\nКорректировка РП",
+"status":1,
+"identifier":"zrc-c00c"
+},
+{
+"id":598,
+"name":"ZRC--[С00b]",
+"description":"Cтадия - Рабочая Документация (корректировка b)\r\nОчередь проектирования - весь объект \r\nStage - Construction Design (revision b)\r\nZone - 000, All site\r\nУвеличение ТЭПов",
+"status":1,
+"identifier":"zrc-c00b"
+},
+{
+"id":450,
+"name":"ZRC--[С00]",
+"description":"Стадия - Рабочая Документация\r\nОчередь проектирования - весь объект \r\nStage - Construction Design\r\nZone - 000, All site ",
+"status":1,
+"identifier":"zrc-c00"
+},
+{
+"id":915,
+"name":"ZRC-C00d",
+"description":"Корректировка \"ИТП\" и связанных с ним инженерных сетей.\r\nСтадия - Рабочая документация\r\nStage - Constuction Design",
+"status":1,
+"identifier":"zrc-c00d"
+},
+{
+"id":909,
+"name":"ZRK-S00",
+"description":"стадия - Предпроект оплачиваемый\r\nphase – Pre-Design",
+"status":1,
+"identifier":"zrk-s00"
+},
+{
+"id":317,
+"name":"ZzZ--[Axx]-Audit",
+"description":"Стадия - Авторский надзор\r\nStage - Author's Supervision\r\nАудит выполненных работ по инженерным системам реализованных объектов. Изучение принципов работы подрядных организаций на региональных объектах",
+"status":1,
+"identifier":"zzz-axx-audit"
+},
+{
+"id":885,
+"name":"_RnD-PDM",
+"description":null,
+"status":1,
+"identifier":"rnd-pdm"
+},
+{
+"id":920,
+"name":"_RND-WAF---2019",
+"description":"Подготовка к World Architecture Festival 2019",
+"status":1,
+"identifier":"rnd-waf-2019"
+},
+{
+"id":567,
+"name":"Автоматизация учёта устройств",
+"description":null,
+"status":1,
+"identifier":"device-registry-automation"
+},
+{
+"id":323,
+"name":"Аналитика Источников Теплоснабжения",
+"description":null,
+"status":1,
+"identifier":"heatinganalysis"
+},
+{
+"id":516,
+"name":"Антоновича",
+"description":"AtN – 000 – XX\r\nБудівництво житлового комплексу з магазинами, офісами, приміщеннями побутового обслуговування і підземним паркінгом по вул. Боженко, 75-77, вул. Володимиро - Либідській, 21-17, вул. Антоновича,118 в Голосіївському районі м. Києва",
+"status":1,
+"identifier":"antonovicha"
+},
+{
+"id":529,
+"name":"Бажана",
+"description":"BzH - 000 - XX \r\n«Будівництво, експлуатація та обслуговування торговельно-офісного та житлово-громадського комплексу \r\nпо проспекту Миколи Бажана, 151-Б у Дарницькому районі м. Києва»",
+"status":1,
+"identifier":"bazhana"
+},
+{
+"id":160,
+"name":"Больничный",
+"description":"Только Рабочие Дни",
+"status":1,
+"identifier":"hospital"
+},
+{
+"id":753,
+"name":"Вавиловых",
+"description":"VvL - 000 - XX",
+"status":1,
+"identifier":"vvl"
+},
+{
+"id":442,
+"name":"Вентиляция жилья. Теплофизика",
+"description":"Вентиляция жилья",
+"status":1,
+"identifier":"vnt"
+},
+{
+"id":783,
+"name":"Воздухофлотский",
+"description":"VZD – 000 – XX\r\nЖитловий комплекс за адресою проспект Повітрофлотський , 66 у Солом’янському районі міста Києва.",
+"status":1,
+"identifier":"vzd"
+},
+{
+"id":391,
+"name":"Воссоединения + Березнева",
+"description":"VsS - 000 - XX\r\nБудівництво житлово-офісного торговельного комплексу з вбудовано-прибудованими приміщеннями громадського, соціального та торгівельного призначення з підземним та наземним паркінгом на вул. Регенераторній, 4, просп. Возз’єднання, 19, вул. Березневій, 12  у Дніпровському районі м. Києва",
+"status":1,
+"identifier":"vossoedineniya"
+},
+{
+"id":198,
+"name":"Восстановление данных",
+"description":"Заявки на восстановление данных",
+"status":1,
+"identifier":"backup"
+},
+{
+"id":195,
+"name":"Выпуск",
+"description":"Заявки на выпуск документации в отдел выпуска",
+"status":1,
+"identifier":"issues"
+},
+{
+"id":662,
+"name":"Главный инженер ",
+"description":"Выполнение административных задач главным инженером компании",
+"status":1,
+"identifier":"chiefengineer"
+},
+{
+"id":597,
+"name":"Годовая Стратегия",
+"description":null,
+"status":1,
+"identifier":"str"
+},
+{
+"id":715,
+"name":"Делегатский",
+"description":"DGT - 000 - XX\r\nРеконструкція адміністративної  будівлі та багатоквартирного житлового будинку під багатофункціональний житлово - офісний комплекс по провулку Делегатському, 4, 6А у Шевченківському районі м. Києва",
+"status":1,
+"identifier":"delegatsky"
+},
+{
+"id":594,
+"name":"Деловая",
+"description":"DLV - 000 - XX\r\nБудівництво житлово-офісного комплексу з вбудовано-прибудованими приміщеннями та паркінгом по вулиці Ділова, 5 в Печерському районі м.Києва",
+"status":1,
+"identifier":"dlv"
+},
+{
+"id":895,
+"name":"Документация решений",
+"description":"Документация, инструкции, стандарты, гайды",
+"status":1,
+"identifier":"adm-z-documentation"
+},
+{
+"id":373,
+"name":"Забилы",
+"description":"Zab – 000 – XX\r\nС-01 - Реконструкція існуючих будівель і споруд під шкільний комплекс Печерської міжнародної школи по вул. Віктора Забіли, 7-A у Голосіївському районі м.Києва (коригування 2, 3, 4 черг будівництва)\r\nС-02 - Реконструкція будівель і споруд шкільного комплексу Печерської міжнародної школи на вул. Віктора Забіли, 7-а у Голосіївському районі м. Києва ",
+"status":1,
+"identifier":"zabily"
+},
+{
+"id":424,
+"name":"Заречная",
+"description":"ZrC - 000 - XX\r\nБудівництво громадсько-житлового комплексу з вбудованими приміщеннями та підземним паркінгом на вул. Зарічній, 16 у Дарницькому районі м. Києва",
+"status":1,
+"identifier":"zarechniy"
+},
+{
+"id":255,
+"name":"Имидж",
+"description":"Связи с Общественностью",
+"status":1,
+"identifier":"pr"
+},
+{
+"id":526,
+"name":"Липковского",
+"description":"LpK - 000 - XX \r\n«Будівництво та експлуатація житлових будинків з паркінгом та вбудовано-прибудованими адміністративними приміщеннями і закладами громадського харчування, \r\nблагоустроєм та озелененням території по вул. Митрополита Василя Липківського, 38 у Солом’янському районі м. Києва»",
+"status":1,
+"identifier":"lypkovskogo"
+},
+{
+"id":682,
+"name":"Льонокомбинатовская",
+"description":"LkB - 000 - XX\r\nБудівництво торговельно-офісного комплексу із спортивним центром на території Великожитинської сільської ради.",
+"status":1,
+"identifier":"lonokombynatovskaia"
+},
+{
+"id":777,
+"name":"Оболонь",
+"description":"OBL - 000 - XX\r\nПриватна середня школа в 3-а мікрорайоні житлового масиву Оболонь на проспекті Героїв Сталінграда, 10-В у Оболонському районі м. Києва",
+"status":1,
+"identifier":"obl"
+},
+{
+"id":161,
+"name":"Отгул",
+"description":"Только Рабочие Дни",
+"status":1,
+"identifier":"compensatory"
+},
+{
+"id":159,
+"name":"Отпуск",
+"description":"Тарифный Отпуск\r\nТолько Рабочие Дни",
+"status":1,
+"identifier":"vacation"
+},
+{
+"id":178,
+"name":"Офис ",
+"description":null,
+"status":1,
+"identifier":"_adm-office"
+},
+{
+"id":283,
+"name":"Пасечная",
+"description":"PcH - 000 - XX\r\nКомплекс багатоквартирних житлових будинків  на вул. Пасічній, 133 у м. Львові\r\n",
+"status":1,
+"identifier":"pasichnaya"
+},
+{
+"id":719,
+"name":"Переднапружений залізобетон",
+"description":null,
+"status":1,
+"identifier":"ferroconcrete"
+},
+{
+"id":162,
+"name":"Повышение Квалификации",
+"description":"Только рабочие дни",
+"status":1,
+"identifier":"training"
+},
+{
+"id":397,
+"name":"Поиск заказов",
+"description":null,
+"status":1,
+"identifier":"offers_search"
+},
+{
+"id":546,
+"name":"Продажи",
+"description":null,
+"status":1,
+"identifier":"sales"
+},
+{
+"id":453,
+"name":"Ремонт",
+"description":null,
+"status":1,
+"identifier":"renovation"
+},
+{
+"id":389,
+"name":"Речная",
+"description":"RcH - 000 - XX\r\nБудівництво житлового-офісного комплексу з підземним паркінгом  по вул. Річна, 4 у Шевченківському районі м. Києва",
+"status":1,
+"identifier":"rechnaya"
+},
+{
+"id":623,
+"name":"Серия Перемычек ARM-LS2-2017",
+"description":"Обновление и пересмотр серии перемычек АВС 1001-01:2011",
+"status":1,
+"identifier":"_rnd-arm-ls2-2017"
+},
+{
+"id":659,
+"name":"Серия Перемычек ARM-LS3-2017",
+"description":null,
+"status":1,
+"identifier":"_rnd-arm-ls3-2017"
+},
+{
+"id":845,
+"name":"Система опросов ",
+"description":null,
+"status":1,
+"identifier":"polling-system"
+},
+{
+"id":68,
+"name":"Теремки",
+"description":"TmK-000-XX\r\nБудівництво житлової та громадської забудови з автовокзалом на території по вул. Кільцева дорога, 1, 1а, 1в, обмеженої вул. Кільцева дорога, західною межею забудови по вулицям Теремківській та Жулянській і міською межею, у Голосіївському районі м. Києва",
+"status":1,
+"identifier":"teremki"
+},
+{
+"id":164,
+"name":"Техподдержка",
+"description":"Заявки на обслуживание компьютерной техники и покупку компьютеров.",
+"status":1,
+"identifier":"support"
+},
+{
+"id":438,
+"name":"Туполева",
+"description":"TpL - 000 - XX\r\nЖитлово-громадська забудова по вул. Туполєва 12, вул. Салютній 2б.",
+"status":1,
+"identifier":"tupoleva"
+},
+{
+"id":172,
+"name":"Управление",
+"description":null,
+"status":1,
+"identifier":"managment"
+},
+{
+"id":175,
+"name":"Финансы",
+"description":null,
+"status":1,
+"identifier":"finance"
+},
+{
+"id":739,
+"name":"Экспансия NyC",
+"description":null,
+"status":1,
+"identifier":"nyc-p00"
+},
+{
+"id":676,
+"name":"Экспансия восточная ",
+"description":null,
+"status":1,
+"identifier":"expansioneastern"
+},
+{
+"id":675,
+"name":"Экспансия западная ",
+"description":null,
+"status":1,
+"identifier":"westernexpansion"
+},
+{
+"id":576,
+"name":"Энергоэффективность Плагин ",
+"description":null,
+"status":1,
+"identifier":"energy"
+}
+]
+}
