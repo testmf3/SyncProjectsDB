@@ -42,7 +42,7 @@ app.set('view engine', 'hbs');
 app.set('views', viewsDir);
 
 // Log requests, using an appropriate formatter by env
-const devEnv = app.get('env') == 'production';
+const devEnv = app.get('env') == 'development';
 app.use(morgan(devEnv ? 'dev' : 'combined'));
 
 // Include request parsers

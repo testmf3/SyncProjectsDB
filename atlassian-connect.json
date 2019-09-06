@@ -6,10 +6,10 @@
         "name": "Archimatika LLC",
         "url": "https://archimatika.com"
     },
-    "baseUrl": "https://6122acff.ngrok.io",
+    "baseUrl": "https://10a16db1.ngrok.io",
     "links": {
-        "self": "https://6122acff.ngrok.io/atlassian-connect.json",
-        "homepage": "https://6122acff.ngrok.io/atlassian-connect.json"
+        "self": "https://10a16db1.ngrok.io/atlassian-connect.json",
+        "homepage": "https://10a16db1.ngrok.io/atlassian-connect.json"
     },
     "authentication": {
         "type": "jwt"
