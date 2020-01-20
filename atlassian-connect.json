@@ -6,10 +6,10 @@
         "name": "Archimatika LLC",
         "url": "https://archimatika.com"
     },
-    "baseUrl": "https://syncprojectsdb.herokuapp.com",
+    "baseUrl": "https://pdm-io-jira.herokuapp.com/",
     "links": {
-        "self": "https://syncprojectsdb.herokuapp.com/atlassian-connect.json",
-        "homepage": "https://syncprojectsdb.herokuapp.com/atlassian-connect.json"
+        "self": "https://pdm-io-jira.herokuapp.com/atlassian-connect.json",
+        "homepage": "https://pdm-io-jira.herokuapp.com/atlassian-connect.json"
     },
     "authentication": {
         "type": "jwt"
