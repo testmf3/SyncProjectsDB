@@ -1,1 +1,1 @@
-# Sample project for AR-Jira fields sync
+# Sample project for ARM-Jira fields sync
